@@ -1,2 +1,4 @@
-# daily-activity-19
-Daily GitHub activity number 19
+import datetime
+
+now = datetime.datetime.now()
+print("Current date and time:", now)
